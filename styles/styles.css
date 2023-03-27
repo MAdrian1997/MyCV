@@ -179,8 +179,8 @@ section h4 {
 }
 .sidebar-section img {
   margin-top: 40px;
-  width: 350px;
-  height: 443px;
+  width: 285px;
+  height: 390px;
   top: 159px;
   left: 119px;
   margin-top: 0px;
@@ -325,7 +325,7 @@ section h4 {
   .sidebar-section img {
     max-width: 100%;
     display: block;
-    margin-left: 65px;
+    margin-left:100px;
   }
   .right-section {
     width: 337px;
